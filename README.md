@@ -1,3 +1,4 @@
+```
 dotnet add package MySql.Data --version 8.0.20
 
 
@@ -8,3 +9,4 @@ CREATE TABLE `tablo1` (
 
 INSERT INTO `tablo1` (`Name`, `Body`) VALUES
 ('Merhaba', 'Merhaba Dünya');
+```
